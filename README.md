@@ -1,0 +1,1 @@
+# weaviate-eks-cluster
